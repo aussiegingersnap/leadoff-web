@@ -8,7 +8,7 @@ export default function Header() {
       <iframe 
           width="1080" 
           height="630" 
-          src="https://www.youtube.com/watch?v=Ms5zYSwoqOs" 
+          src="https://www.youtube.com/embed/Ms5zYSwoqOs" 
           title="Player" 
           frameBorder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
